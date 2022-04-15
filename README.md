@@ -1,2 +1,2 @@
 # Front
-Creación de Front-end Con React, Bootstrap, TaildwindCss,  HTML, SASS. 
+Creación de Front-end con React, Bootstrap, TaildwindCss,  HTML, SASS. 
